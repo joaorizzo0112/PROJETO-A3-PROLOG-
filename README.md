@@ -48,5 +48,4 @@ As consultas planejadas para a demonstração final validam o comportamento do s
 * **SWI-PROLOG.** *Documentation.* Referência técnica da linguagem Prolog e de seus recursos.
 * **UNIFACS.** *Avaliação A3 - Matemática Computacional Aplicada.* Edital do semestre letivo 2026.1.
 * **UNIVERSIDADE FEDERAL DE SANTA CATARINA (UFSC).** *MORE - Gerador automático de referências.*
-README.md
-Exibindo README.md.
+
