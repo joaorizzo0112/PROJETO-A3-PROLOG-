@@ -2,11 +2,11 @@
 
 Este repositório contém o protótipo de um **Sistema Especialista** desenvolvido para a unidade curricular de **Matemática Computacional Aplicada** (Semestre 2026.1) na **UNIFACS**. O projeto integra conceitos práticos de **Administração**, **Segurança da Informação** e **Economia** utilizando a linguagem de programação lógica **Prolog**.
 
-## 🎯 Objetivo do Projeto
+##  Objetivo do Projeto
 
 A principal contribuição do trabalho foi transformar um cenário do mundo real em uma estrutura lógica simples, objetiva e de fácil consulta. O sistema funciona como um assistente de diagnóstico inicial que avalia o perfil de uma organização por meio de um conjunto de fatos e regras bem definidos, gerando recomendações personalizadas e ações práticas de melhoria.
 
-## 🧠 Estrutura dos Módulos
+##  Estrutura dos Módulos
 
 A base de conhecimento foi modelada e planejada de forma modular em três blocos principais:
 
@@ -14,7 +14,7 @@ A base de conhecimento foi modelada e planejada de forma modular em três blocos
 * **Segurança da Informação:** Avalia o uso de senhas fortes, rotinas de backup, atualização de sistemas e políticas de controle de acesso. Perfis que apresentam vulnerabilidades ou falhas críticas nesta área recebem prioridade máxima de correção pelo sistema.
 * **Economia:** Observa e monitora o fluxo de caixa, capital de giro, controle de despesas fixas e a margem de segurança financeira. Perfis identificados em desequilíbrio financeiro recebem recomendações diretas para ajuste de caixa e redução de despesas.
 
-## ⚙️ Diagnósticos e Ações Práticas
+##  Diagnósticos e Ações Práticas
 
 A partir do cruzamento de fatos e regras no motor de inferência, o sistema gera diagnósticos iniciais voltados a apoiar decisões corporativas, disparando alertas como:
 * Priorização e execução de rotinas de backup.
@@ -24,12 +24,12 @@ A partir do cruzamento de fatos e regras no motor de inferência, o sistema gera
 
 As consultas planejadas para a demonstração final validam o comportamento do sistema através de cenários de testes, contemplando a verificação do nível de segurança, análise de risco financeiro e emissão de relatórios de recomendações gerais para o negócio.
 
-## 🛠️ Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 * **SWI-Prolog / SWISH:** Plataforma online utilizada para o desenvolvimento, simulação lógica e execução da base de conhecimento do sistema especialista.
 * **Microsoft Word:** Utilizado para a montagem e edição do relatório técnico de registro de atividades práticas.
 
-## 👥 Equipe e Integrantes
+##  Equipe e Integrantes
 
 * **Alex de Oliveira Damasceno Lantyer**
 * **João Carvalho Rizzo Summers** 
@@ -39,7 +39,7 @@ As consultas planejadas para a demonstração final validam o comportamento do s
 
 **Professor Orientador:** Wellington Lacerda Silveira da Silva
 
-## 📚 Referências Bibliográficas
+##  Referências Bibliográficas
 
 * **BANCO CENTRAL DO BRASIL.** *Educação financeira.* Brasília, DF: Banco Central do Brasil. Disponível em: <https://www.bcb.gov.br>. Acesso em: 08 jun. 2026.
 * **CERT.br.** *Cartilha de segurança para internet.* São Paulo: Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil. Disponível em: <https://cartilha.cert.br>. Acesso em: 08 jun. 2026.
