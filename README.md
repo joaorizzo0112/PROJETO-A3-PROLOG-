@@ -41,9 +41,9 @@ As consultas planejadas para a demonstração final validam o comportamento do s
 
 ##  Referências Bibliográficas
 
-* **BANCO CENTRAL DO BRASIL.** *Educação financeira.* Brasília, DF: Banco Central do Brasil. Disponível em: <https://www.bcb.gov.br>. Acesso em: 08 jun. 2026.
-* **CERT.br.** *Cartilha de segurança para internet.* São Paulo: Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil. Disponível em: <https://cartilha.cert.br>. Acesso em: 08 jun. 2026.
-* **SEBRAE.** *Gestão empresarial.* Brasília, DF: Serviço Brasileiro de Apoio às Micro e Pequenas Empresas. Disponível em: <https://sebrae.com.br>. Acesso em: 08 jun. 2026.
+* **BANCO CENTRAL DO BRASIL.** *Educação financeira.* Brasília, DF: Banco Central do Brasil. Disponível em: <https://www.bcb.gov.br>.
+* **CERT.br.** *Cartilha de segurança para internet.* São Paulo: Centro de Estudos, Resposta e Tratamento de Incidentes de Segurança no Brasil. Disponível em: <https://cartilha.cert.br>.
+* **SEBRAE.** *Gestão empresarial.* Brasília, DF: Serviço Brasileiro de Apoio às Micro e Pequenas Empresas. Disponível em: <https://sebrae.com.br>.
 * **SWI-PROLOG.** *SWISH: SWI-Prolog for the Web.* Plataforma online de desenvolvimento e simulação em Prolog.
 * **SWI-PROLOG.** *Documentation.* Referência técnica da linguagem Prolog e de seus recursos.
 * **UNIFACS.** *Avaliação A3 - Matemática Computacional Aplicada.* Edital do semestre letivo 2026.1.
